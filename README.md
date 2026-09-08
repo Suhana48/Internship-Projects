@@ -1,28 +1,30 @@
-# Internship Projects
+# 🚀 Internship Projects
 
 This repository contains the projects and tasks completed as part of my internship.
 
-## Task 01 – Command-Line Calculator
+---
+
+## 🧮 Task 01 – Command-Line Calculator
 
 A Java-based command-line calculator that performs basic arithmetic operations based on user input.
 
-### Features
+### ✨ Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-- Input validation for invalid numbers
-- Division by zero handling
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 Modulus
+- ⚠️ Input validation for invalid numbers
+- 🚫 Division by zero handling
 
-### Technologies Used
+### 🛠️ Technologies Used
 
-- Java
-- JDK
-- IntelliJ IDEA
+- ☕ Java
+- 📦 JDK
+- 💻 IntelliJ IDEA
 
-### Project Structure
+### 📁 Project Structure
 
 ```text
 src/
