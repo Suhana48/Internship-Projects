@@ -1,32 +1,28 @@
-# 🚀 Internship Projects
+# 🚀 Java Internship Tasks
 
-This repository contains the projects and tasks completed as part of my internship.
+This repository contains the daily tasks and projects completed during my Java internship.
+
+## 📌 Tasks
+
+### 🧮 Task 01 – Command-Line Calculator
+A Java console application that performs addition, subtraction, multiplication, division, and modulus operations.
+
+**Concepts:** Java basics, methods, operators, `Scanner`, input validation, and exception handling.
 
 ---
 
-## 🧮 Task 01 – Command-Line Calculator
+### 🎓 Task 02 – Student Grade Calculator
+A Java console application that accepts marks for multiple subjects and calculates the total, percentage, and final grade.
 
-A Java-based command-line calculator that performs basic arithmetic operations based on user input.
+**Concepts:** Arrays, loops, methods, conditional statements, `Scanner`, and input validation.
 
-### ✨ Features
+---
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🔢 Modulus
-- ⚠️ Input validation for invalid numbers
-- 🚫 Division by zero handling
+## 🛠️ Technologies
 
-### 🛠️ Technologies Used
+- Java
+- JDK
+- IntelliJ IDEA
+- Git & GitHub
 
-- ☕ Java
-- 📦 JDK
-- 💻 IntelliJ IDEA
-
-### 📁 Project Structure
-
-```text
-src/
-└── task01_calculator/
-    └── Calculator.java
+More tasks and projects will be added as the internship progresses.
