@@ -18,6 +18,13 @@ A Java console application that accepts marks for multiple subjects and calculat
 
 ---
 
+### 🎯 Task 03 – Number Guessing Game
+A Java console game where the application generates a random number between 1 and 100, and the user attempts to guess it using higher/lower hints.
+
+**Concepts:** `Random`, `Scanner`, loops, conditional statements, input validation, exception handling, and counters.
+
+---
+
 ## 🛠️ Technologies
 
 - Java
