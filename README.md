@@ -25,6 +25,13 @@ A Java console game where the application generates a random number between 1 an
 
 ---
 
+### 👨‍🎓 Task 04 – Student Management System
+A Java console application that allows users to add, search, update, and display student records using arrays.
+
+**Concepts:** Arrays, loops, methods, conditional statements, `Scanner`, linear search, input validation, and exception handling.
+
+---
+
 ## 🛠️ Technologies
 
 - Java
@@ -32,4 +39,4 @@ A Java console game where the application generates a random number between 1 an
 - IntelliJ IDEA
 - Git & GitHub
 
-More tasks and projects will be added as the internship progresses.
+More tasks and projects will be added as the internship progresses.S
