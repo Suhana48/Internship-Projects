@@ -32,6 +32,13 @@ A Java console application that allows users to add, search, update, and display
 
 ---
 
+### ✖️ Task 05 – Multiplication Table Generator
+A Java console application that generates a multiplication table for a user-provided number and can also generate tables for a range of numbers.
+
+**Concepts:** Loops, nested loops, methods, `Scanner`, conditional statements, input validation, and formatted output.
+
+---
+
 ## 🛠️ Technologies
 
 - Java
@@ -39,4 +46,4 @@ A Java console application that allows users to add, search, update, and display
 - IntelliJ IDEA
 - Git & GitHub
 
-More tasks and projects will be added as the internship progresses.S
+More tasks and projects will be added as the internship progresses.
